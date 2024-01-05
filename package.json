@@ -1,0 +1,13 @@
+{
+    "name": "com.huanguol.batch-rename",
+    "version": "1.0.0",
+    "displayName": "Huanguol's Batch Rename",
+    "description": "Now you can rename in batches! Try selecting and renaming scene objects and assets, it's never been easier and more importantly you can even do it at the same time!",
+    "unity": "2019.1",
+    "unityRelease": "0b5",
+    "author": {
+      "name": "Huanguol",
+      "email": "gibimpak@gmail.com",
+      "url": "https://www.linkedin.com/in/ivan-andriukha-805846239/"
+    }
+  }
